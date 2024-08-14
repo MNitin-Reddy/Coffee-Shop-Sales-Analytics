@@ -25,5 +25,4 @@ This project aims to explore the sales data of a coffee shop chain for the first
 * __Pricing and Sales Volume:__ Higher-priced items such as loose tea, coffee beans, and packaged chocolates have lower sales volumes, while lower-priced items like coffee and tea have high sales volumes. This presents an opportunity to optimize the sales of high-priced items through targeted promotions and product lineup adjustments.
 * __Sales Trends:__ Sales peak during morning hours from 8 a.m. to 10 a.m., with a moderate level of activity from 11 a.m. to 7 p.m. Utilizing this information can help optimize staffing and marketing efforts throughout the day.
 
-Explore More from this website --> ## Visit the Project Website
-<a href="https://www.yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge"></a>
+__Visit the project website for more information:__ [Coffee Shop Sales Analysis](https://mnitin-reddy.github.io/Coffee-Shop-Sales-Analytics/).
