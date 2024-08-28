@@ -1,3 +1,5 @@
+__Visit the project website for detailed information:__ [Coffee Shop Sales Analysis](https://mnitin-reddy.github.io/Coffee-Shop-Sales-Analytics/).
+
 # Coffee Shop Sales Analytics - EDA
 
 ## Introduction
@@ -24,5 +26,3 @@ This project aims to explore the sales data of a coffee shop chain for the first
 * __Product Popularity:__ Coffee is the most popular category, followed by tea and bakery items, suggesting a strong customer preference for these products.
 * __Pricing and Sales Volume:__ Higher-priced items such as loose tea, coffee beans, and packaged chocolates have lower sales volumes, while lower-priced items like coffee and tea have high sales volumes. This presents an opportunity to optimize the sales of high-priced items through targeted promotions and product lineup adjustments.
 * __Sales Trends:__ Sales peak during morning hours from 8 a.m. to 10 a.m., with a moderate level of activity from 11 a.m. to 7 p.m. Utilizing this information can help optimize staffing and marketing efforts throughout the day.
-
-__Visit the project website for more information:__ [Coffee Shop Sales Analysis](https://mnitin-reddy.github.io/Coffee-Shop-Sales-Analytics/).
